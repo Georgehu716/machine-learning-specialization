@@ -13,3 +13,6 @@ machine learning algorithms
 algorithms is just tools, the most important is how to **apply** it.
 
 Practical advice for applying learning algorithms
+
+
+## Supervised learning part 1
