@@ -16,3 +16,9 @@ Practical advice for applying learning algorithms
 
 
 ## Supervised learning part 1
+
+x -> y, map
+
+input ---> output label
+
+Learns from being give "right answers"
